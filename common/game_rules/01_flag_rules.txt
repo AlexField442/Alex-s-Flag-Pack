@@ -1,0 +1,16 @@
+GER_flag_fascism = {
+	name = "RULE_OPTION_FLAG_GER_FASCISM"
+	group = "RULE_OPTION_FLAG"
+	default = {
+		name = HISTORICAL
+		text = "RULE_OPTION_FLAG_GER_FASCISM_HISTORICAL"
+		desc = "RULE_OPTION_FLAG_GER_FASCISM_HISTORICAL_DESC"
+		allow_achievements = yes
+	}
+	option = {
+		name = CENSORED
+		text = "RULE_OPTION_FLAG_GER_FASCISM_CENSORED"
+		desc = "RULE_OPTION_FLAG_GER_FASCISM_CENSORED_DESC"
+		allow_achievements = yes
+	}
+}

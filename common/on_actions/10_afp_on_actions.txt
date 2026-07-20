@@ -1,0 +1,20 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = GER_flag_fascism
+						option = CENSORED
+					}
+				}
+				GER = {
+					set_cosmetic_tag = GER_paradoxlegal
+					}
+				VGE = {
+					set_cosmetic_tag = VGE_paradoxlegal
+					}
+			}
+		}
+	}
+}

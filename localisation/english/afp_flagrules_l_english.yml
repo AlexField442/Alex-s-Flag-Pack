@@ -1,0 +1,18 @@
+﻿l_english:
+ RULE_OPTION_FLAG: "Flag Settings"
+
+ # GERMAN REICH
+ RULE_OPTION_FLAG_GER_FASCISM: "@GER German Reich"
+ RULE_OPTION_FLAG_GER_FASCISM_HISTORICAL: "Historical"
+ RULE_OPTION_FLAG_GER_FASCISM_HISTORICAL_DESC:0 "The German Reich (and the Volga German Reich) will use the real life flag used from 1935 to 1945.\n\n §RDo not use this option if you intend on posting to Paradox's forums!§"
+ RULE_OPTION_FLAG_GER_FASCISM_CENSORED: "Censored"
+ RULE_OPTION_FLAG_GER_FASCISM_CENSORED_DESC:0 "The German Reich (and the Volga German Reich) will use the altered Wehrmacht flag as it appears in regular Hearts of Iron IV.§"
+
+ # BRITISH RAJ
+ RULE_OPTION_FLAG_RAJ_UK: "@RAJ British Raj"
+ RULE_OPTION_FLAG_RAJ_UK_RED: "Red Ensign"
+ RULE_OPTION_FLAG_RAJ_UK_RED_DESC:0 "The British Raj will use the Red Ensign, which was used by civilian vessels."
+ RULE_OPTION_FLAG_RAJ_UK_BLUE: "Blue Ensign"
+ RULE_OPTION_FLAG_RAJ_UK_BLUE_DESC:0 "The British Raj will use the Blue Ensign, which was used by state and naval vessels."
+ RULE_OPTION_FLAG_RAJ_UK_GOVENOR: "Govenor-General"
+ RULE_OPTION_FLAG_RAJ_UK_GOVENOR_DESC:0 "The British Raj will use the flag of the Viceroy and Govenor-General of India."
