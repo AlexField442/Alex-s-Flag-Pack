@@ -1,4 +1,4 @@
-version="Alpha 3 (20.07.26)"
+version="Alpha 4 (29.07.26)"
 tags={
 	"Graphics"
 	"Historical"
